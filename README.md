@@ -1,5 +1,5 @@
 <!-- Animated typing header -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Hi+there%2C+I'm+Korl1207!;C%2B%2B+%26+C%23+Developer;Game+Dev+Enthusiast;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Hi+there%2C+I'm+Korl1207!;C%2B%2B+%26+C%23+Developer;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 <!-- Snake animation -->
 <picture>
