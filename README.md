@@ -32,19 +32,6 @@ I'm a passionate **C/C++ developer** and I love building tools that make life ea
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Korl1207&show_icons=true&theme=radical&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Korl1207&layout=compact&theme=radical&hide_border=true" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Korl1207&theme=radical&hide_border=true" />
-</div>
-
----
-
 ## 📫 Connect with Me
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KiaRio117)
